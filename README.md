@@ -32,7 +32,7 @@ Config and run src/phospho_prediction.py.
 - mode=cv: run cross validation. Trained models will be saved to OUTPUT/checkpoints and the best models will be saved to FINALS/models. 
 - mode=test: run independent test. Test performance will be saved to #output_log that is configured. 
 
-Pretrained models for different kinases can be downloaded here. 
+Pretrained models for different kinases can be downloaded <a href="https://drive.google.com/open?id=12jqviDdJ_GonVboTCSr526AGRoRgD3Ew">here</a>. 
 
 ## Benchmark dataset
 
